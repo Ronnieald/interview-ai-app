@@ -1,0 +1,10 @@
+[
+  {
+    "name": "SF Tech Repairs",
+    "rating": 4.8,
+    "price": "$95/hr",
+    "reviewCount": 200,
+    "location": "San Francisco",
+    "bookingLink": "https://sftechrepairs.com"
+  }
+]

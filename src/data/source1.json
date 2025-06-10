@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Joe's Dishwasher Repair",
+    "rating": 4.9,
+    "price": "$85/hr",
+    "reviewCount": 120,
+    "location": "San Francisco",
+    "bookingLink": "https://joesdishwasherrepair.com"
+  }
+]
